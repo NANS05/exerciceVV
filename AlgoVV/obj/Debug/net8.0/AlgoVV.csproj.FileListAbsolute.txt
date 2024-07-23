@@ -1,0 +1,14 @@
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\bin\Debug\net8.0\AlgoVV.exe
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\bin\Debug\net8.0\AlgoVV.deps.json
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\bin\Debug\net8.0\AlgoVV.runtimeconfig.json
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\bin\Debug\net8.0\AlgoVV.dll
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\bin\Debug\net8.0\AlgoVV.pdb
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\AlgoVV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\AlgoVV.AssemblyInfoInputs.cache
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\AlgoVV.AssemblyInfo.cs
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\AlgoVV.csproj.CoreCompileInputs.cache
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\AlgoVV.dll
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\refint\AlgoVV.dll
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\AlgoVV.pdb
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\AlgoVV.genruntimeconfig.cache
+C:\Users\Nans Maurel\source\repos\AlgoVV\AlgoVV\obj\Debug\net8.0\ref\AlgoVV.dll
